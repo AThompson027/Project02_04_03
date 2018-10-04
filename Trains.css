@@ -1,0 +1,18 @@
+html {
+    background-color: pink;
+}
+
+form {
+    background-color: lightpink;
+    font-family: monospace;
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px lightpink;
+    font-family: monospace;
+}
+
+form input {
+    background-color: rgb(255,233,236);
+}
